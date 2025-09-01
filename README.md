@@ -4,7 +4,7 @@ Este projeto foi desenvolvido durante meus estudos na [Rocketseat](https://app.r
 
 ---
 
-![Preview do Projeto](https://github.com/user-attachments/assets/a89c0f3a-219d-4562-bf39-adce038c6931)
+![Texto alternativo da imagem](https://i.imgur.com/Tzu4WzK.png)
 
 ---
 
