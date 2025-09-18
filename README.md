@@ -38,7 +38,7 @@ Durante o desenvolvimento, pude aprender e praticar:
 
 O resultado final é uma página simples, bem estruturada e fiel ao layout proposto, trazendo conceitos básicos de design responsivo e boas práticas de organização de código.  
 
-👉 [Acesse o projeto no CodePen](https://codepen.io/Charbel-Daher-the-vuer/pen/jEbeRNv)  
+👉 <a href="https://codepen.io/Charbel-Daher-the-vuer/pen/jEbeRNv" target="_blank" rel="noopener noreferrer">Acesse o projeto no CodePen</a>
 
 ---
 
